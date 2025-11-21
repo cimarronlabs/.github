@@ -22,7 +22,7 @@ Eso implica:
 
 - Entornos aislados
 - Documentación clara
-- Sripts automatizados
+- Scripts automatizados
 - Control de versiones
 
 Sin reproducibilidad, no hay ciencia.
@@ -49,7 +49,7 @@ Ese es nuestro estándar.
 
 ## Estructura del Laboratorio
 - **cimarron-core/** 
-  - **docs/**               # Decumentación técnica central
+  - **docs/**               # Documentación técnica central
     - **methodology/**      # Metodología del laboratorio
     - **playbooks/**        # Procedimientos operativos
     - **adversary/**        # Modelado de amenazas y TTPs
@@ -101,8 +101,6 @@ Creemos que:
 
 El Cimarrón es resiliente, territorial, fuerte, inteligente y libre.
 Representa exactamente la mentalidad que se necesita en ciberseguridad:
-
-**Pensar por fuera de la norma, actuar con autonomía y no rendirse nunca.**
 
 ## **Sobre el Fundador**
 **Rafael Matteo Mourigan — Founder & Lead Researcher**
