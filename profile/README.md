@@ -1,11 +1,6 @@
 # **CIMARRON LABS**
 ## **Advanced Security Research**
 
-## Sobre Cimarrón Labs
-
-Cimarrón Labs es un laboratorio de investigación técnica orientado al análisis profundo de amenazas, ingeniería ofensiva/defensiva, automatización de seguridad y construcción de metodologías reproducibles.
-Nuestro enfoque está diseñado para generar conocimiento accionable: PoCs, tácticas, herramientas y documentación que puedan aplicarse en entornos reales.
-
 ## **Sobre Cimarrón Labs**
 Cimarrón Labs nace como un espacio de investigación independiente dedicado a comprender cómo se comprometen los sistemas, cómo se defienden y cómo se construye seguridad robusta desde los fundamentos.
 Trabajamos con una filosofía clara: **entender a nivel de raíz, documentar con precisión y compartir conocimiento técnico de valor real.**
