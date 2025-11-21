@@ -77,8 +77,8 @@ Cada módulo del ecosistema está diseñado para crecer de manera independiente 
 
 ## Estado del Proyecto
 
-Cimarrón Labs está en fase “Día 1”.
-Esto implica:
+Cimarrón Labs está en fase **Día 1**:
+
 - Estructura creada
 - Metodología definida
 - Repositorios base en construcción
@@ -101,6 +101,7 @@ Creemos que:
 
 El Cimarrón es resiliente, territorial, fuerte, inteligente y libre.
 Representa exactamente la mentalidad que se necesita en ciberseguridad:
+**firmeza, análisis y libertad intelectual**.
 
 ## **Sobre el Fundador**
 **Rafael Matteo Mourigan — Founder & Lead Researcher**
