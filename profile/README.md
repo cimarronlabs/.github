@@ -1,15 +1,135 @@
-# Cimarron Labs
-### Advanced Security Research
+# V3
 
-Cimarrón CyberSecOps es una organización dedicada a la investigación avanzada en ciberseguridad, la integración de inteligencia artificial en operaciones defensivas y ofensivas, y al diseño de arquitecturas seguras y automatizadas para entornos modernos.
+# <div align="center">🧬 CIMARRÓN LABS</div>
+<div align="center">**Advanced Security Research**</div>
 
-Nuestra misión es elevar el nivel técnico y estratégico de la seguridad corporativa a través de:
+## Sobre Cimarrón Labs
 
-- Cybersecurity Research
-- Security Engineering
-- AI-Augmented Defense
-- DevSecOps Automation
-- Offensive & Defensive Cyber Operations
+Cimarrón Labs es un laboratorio de **investigación aplicada en ciberseguridad**, enfocado en ingeniería ofensiva, defensiva y de inteligencia.
+Nuestro trabajo combina análisis profundo, diseño seguro, automatización y desarrollo de herramientas orientadas a:
+
+- Security by Design
+- Red / Blue / Purple Team Engineering
+- Threat Intelligence & OSINT
+- Secure Architecture & Hardening
+- DevSecOps & Automation
+- Criptografía, Entropía & TRNG Research
+- AI-Driven Cybersecurity
+- Malware Analysis & Reverse Engineering (futuro)
+
+Nos guiamos por un principio simple:
+**La seguridad debe ser comprendida, medida, reproducida y mejorada con evidencia, no con suposiciones.**
+
+## Metodología
+
+La metodología de Cimarrón Labs nace de una mentalidad arquitectónica:
+**Pensar en capas, sistemas y causas, no solo en síntomas.**
+
+### **1. Understanding First (Comprender antes de actuar)**
+Todo inicia con análisis profundo: tecnología, protocolo, arquitectura, threat model y superficie de ataque.
+Nada se toca sin antes mapear *qué es*, *dónde está* y *qué vías de impacto tiene*.
+
+### **2. Reproducible Research (Investigación verificable)**
+Cada hallazgo, laboratorio o PoC debe poder replicarse.
+Eso implica:
+
+- Entornos aislados
+- Documentación clara
+- Sripts automatizados
+- Control de versiones
+
+Sin reproducibilidad, no hay ciencia.
+
+### **3. Security by Design en todos los niveles**
+Cada investigación busca responder:
+
+- ¿Cómo debería haberse diseñado esto?
+- ¿Cómo se rompe?
+- ¿Cómo se arregla desde la raíz?
+
+No parchamos: **reestructuramos mentalmente la solución.**
+
+### **4. Automation as a Force Multiplier**
+Todo lo que se repite se automatiza.
+La automatización no ahorra tiempo:
+**Multiplica capacidad operativa.**
+
+### **5. Proof-of-Value, no Proof-of-Concept**
+Una PoC demuestra que algo funciona.
+Una PoV demuestra por qué importa.
+
+Ese es nuestro estándar.
+
+## Misión
+Investigar, diseñar y documentar soluciones de ciberseguridad ofensivo–defensiva aplicadas al mundo real. Cimarrón Labs es un laboratorio independiente de investigación técnica, enfocado en arquitectura segura, automatización, inteligencia y experimentación continua.
+
+## Enfoque
+Cimarrón Labs combina pensamiento sistémico, ingeniería práctica y análisis profundo para crear conocimiento accionable en:
+- Arquitectura Red & Blue Team
+- DevSecOps y Supply-Chain Security
+- Hardening y Forensics
+- OSINT & Cyber Intelligence
+- Explotación controlada y PoCs
+- Seguridad moderna basada en automatización
+
+## Áreas de Investigación
+1. **Offensive Security Research**
+- Explotación
+- Privilege Escalation
+- Red Team Tradecraft
+- Post-Exploitation
+
+2. **Defensive Architecture**
+- Hardening multi-layer
+- Detección y respuesta
+- Análisis forense
+- Seguridad basada en automatización
+
+3. **DevSecOps**
+- CI/CD Zero-Trust
+- IaC Security
+- Container Hardening
+- Seguridad en cadena de suministro
+
+4. **OSINT & Cyber Intelligence**
+- Reconnaissance estructurado
+- Atribución básica
+- Procedimientos de análisis
+- Metodologías para investigación
+
+## Estructura del Laboratorio (Repo)
+- **cimarron-core** 
+  - **/docs** — Investigación, artículos técnicos, diagramas, reportes.
+  - **/research** — PoCs, prototipos y experimentos.
+  - **/labs** — Laboratorios reproducibles, entornos QEMU/KVM, contenedores y scripts.
+  - **/blue-team** — Detección, hardening, automatización defensiva.
+  - **/red-team** — Explotación controlada, técnicas ofensivas, notes.
+  - **/osint** — Metodologías, herramientas, procedimientos.
+  - **/devsecops** — Pipelines, políticas, frameworks, integraciones.
+  - **/tools** — Scripts, utilidades propias, automatizaciones.
+  - **/roadmap** — Avance público de investigación y metas.
+
+## Roadmap de Investigación
+- Automatización defensiva con Rust / Go.
+- PoCs de explotación (Linux y contenedores).
+- Hardening extremo de Linux.
+- Seguridad en cadena de suministro.
+- OSINT avanzado aplicado a investigación técnica.
+- Infraestructura de laboratorio reproducible.
+
+## Sobre el Fundador
+**Rafael Matteo Mourigan**
+Founder & Principal Researcher — Cimarrón Labs
+Arquitectura ofensivo–defensiva, DevSecOps, investigación aplicada y diseño de soluciones.
+
+## Contribución
+Este es un laboratorio de investigación independiente. No se aceptan contribuciones externas actualmente, pero sí feedback técnico.
+
+## Nota Ética
+Todo el contenido de este laboratorio se orienta a seguridad defensiva, comprensión académica y fortalecimiento de sistemas. Nada aquí debe usarse con objetivos maliciosos.
+
+## Cimarrón Labs — Advanced Security Research
+Construyendo conocimiento. Diseñando seguridad. Investigando sin descanso.
 
 ## Tecnologías y Áreas de Especialización
 
@@ -56,36 +176,4 @@ Nuestra misión es elevar el nivel técnico y estratégico de la seguridad corpo
 ![Threat Detection AI](https://img.shields.io/badge/AI%20Threat%20Detection-8A2BE2)
 ![Cryptography](https://img.shields.io/badge/Cryptography-5C3566)
 ![Entropy & TRNG](https://img.shields.io/badge/Entropy%20%26%20TRNG-2B547E)
-
-## Laboratorio Técnico & Ecosistema
-
-La organización mantiene un ecosistema activo de investigación, PoCs y desarrollo interno:
-
-- **cso-core** – Repositorio raíz de operaciones, herramientas internas y documentación técnica
-  - **labs/** – Entornos prácticos en QEMU/KVM
-  - **PoC/** – Pruebas de concepto ofensivas y defensivas
-  - **tools/** – Utilidades OSINT, Red Team y Blue Team
-  - **scripts/** – Automatización para análisis y operaciones
-  - **templates/** – Plantillas profesionales para reportes, análisis y auditorías
-  - **roadmap/** – Rutas de estudio y desarrollo estratégico
-
-Este ecosistema sigue principios de **Security by Design**, **automatización**, **defensa observable** y **AI-Assisted Cyber Operations**.
-
-## Filosofía Operativa
-
-Cimarrón CyberSecOps adopta una visión moderna de la ciberseguridad basada en:
-
-- Disciplina técnica
-- Investigación profunda
-- Arquitectura defensiva inteligente
-- Análisis ofensivo–defensivo integrado
-- Automatización y eficiencia operacional
-- Innovación constante
-- Integración de AI en procesos críticos de seguridad
-
-## Identidad Organizacional
-
-**Cimarrón CyberSecOps – Advanced Security Research**
-
-Arquitectura de seguridad moderna, inteligencia aplicada y operaciones integradas de ciberdefensa.
 
