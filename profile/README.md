@@ -1,7 +1,5 @@
-# V3
-
-# <div align="center">🧬 CIMARRÓN LABS</div>
-<div align="center">**Advanced Security Research**</div>
+<h1><div align="center">CIMARRÓN LABS</div></h1>
+<div align="center"><bold>Advanced Security Research</bold></div>
 
 ## Sobre Cimarrón Labs
 
