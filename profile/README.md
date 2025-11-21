@@ -3,11 +3,11 @@
 
 ## Sobre Cimarrón Labs
 
-Cimarrón Labs es un laboratorio de investigación técnica orientado al análisis profundo de amenazas, ingeniería ofensiva/defensiva, automatización de seguridad y construcción de metodologías reproducibles. 
+Cimarrón Labs es un laboratorio de investigación técnica orientado al análisis profundo de amenazas, ingeniería ofensiva/defensiva, automatización de seguridad y construcción de metodologías reproducibles.
 Nuestro enfoque está diseñado para generar conocimiento accionable: PoCs, tácticas, herramientas y documentación que puedan aplicarse en entornos reales.
 
 ## **Sobre Cimarrón Labs**
-Cimarrón Labs nace como un espacio de investigación independiente dedicado a comprender cómo se comprometen los sistemas, cómo se defienden y cómo se construye seguridad robusta desde los fundamentos. 
+Cimarrón Labs nace como un espacio de investigación independiente dedicado a comprender cómo se comprometen los sistemas, cómo se defienden y cómo se construye seguridad robusta desde los fundamentos.
 Trabajamos con una filosofía clara: **entender a nivel de raíz, documentar con precisión y compartir conocimiento técnico de valor real.**
 
 Este repositorio funciona como el núcleo del laboratorio, donde se consolidan procesos, investigaciones y documentación.
@@ -19,7 +19,7 @@ La metodología de Cimarrón Labs nace de una mentalidad arquitectónica:
 
 ### **1. Understanding First (Comprender antes de actuar)**
 Todo inicia con análisis profundo: tecnología, protocolo, arquitectura, threat model y superficie de ataque.
-Nada se toca sin antes mapear *qué es*, *dónde está* y *qué vías de impacto tiene*.
+Nada se toca sin antes mapear **qué es, dónde está** y **qué vías de impacto tiene**.
 
 ### **2. Reproducible Research (Investigación verificable)**
 Cada hallazgo, laboratorio o PoC debe poder replicarse.
@@ -39,7 +39,7 @@ Cada investigación busca responder:
 - ¿Cómo se rompe?
 - ¿Cómo se arregla desde la raíz?
 
-No parchamos: **reestructuramos mentalmente la solución.**
+No parchamos: **reestructuramos la solución.**
 
 ### **4. Automation as a Force Multiplier**
 Todo lo que se repite se automatiza.
@@ -60,15 +60,15 @@ Ese es nuestro estándar.
     - **adversary/**        # Modelado de amenazas y TTPs
     - **architecture/**     # Diseño de infraestructura y blueprints
     - **research/**         # Investigaciones profundas
-  - **research/**        # Proyectos de investigación activos
-    - **defensive/**     # Blue Teaming, detección, hardening, automatización defensiva
-    - **offensive/**     # Red Teaming, explotación controlada, técnicas ofensivas, notes
-    - **osint/**         # Metodologías, herramientas, procedimientos
-    - **automation/**    # DevSecOps, pipelines, políticas, frameworks, integraciones
-    - **crypto/**        # Criptografía, entropía, TRNG
-  - **labs/**            # Laboratorios reproducibles, entornos QEMU/KVM, contenedores y scripts.
-  - **tools/**           # Scripts, utilidades propias, automatizaciones.
-  - **roadmap/**         # Avance público de investigación y metas.
+  - **research/**           # Proyectos de investigación activos
+    - **defensive/**        # Blue Teaming, detección, hardening, automatización defensiva
+    - **offensive/**        # Red Teaming, explotación controlada, técnicas ofensivas, notes
+    - **osint/**            # Metodologías, herramientas, procedimientos
+    - **automation/**       # DevSecOps, pipelines, políticas, frameworks, integraciones
+    - **crypto/**           # Criptografía, entropía, TRNG
+  - **labs/**               # Laboratorios reproducibles, entornos QEMU/KVM, contenedores y scripts
+  - **tools/**              # Scripts, utilidades propias, automatizaciones
+  - **roadmap/**            # Avance público de investigación y metas
   
 Cada módulo del ecosistema está diseñado para crecer de manera independiente y ordenada.
 
@@ -87,8 +87,8 @@ Esto implica:
 - Estructura creada
 - Metodología definida
 - Repositorios base en construcción
-- Primeras investigaciones en curso
-- Primeras publicaciones programadas
+- Investigaciones en curso
+- Publicaciones programadas
 
 El objetivo es publicar contenido **real, útil y aplicable**, no humo.
 
@@ -117,14 +117,18 @@ Enfocado en Red Teaming, OSINT técnico, DevSecOps, arquitectura defensiva y seg
 Cimarrón Labs representa su visión: un espacio de investigación serio, reproducible y profundamente técnico.
 
 ## **Contacto**
+
 **GitHub:** https://github.com/cimarronlabs
+
 **Email:** [cimarron.research@gmail.com](cimarron.research@gmail.com)
 
 ## Contribución
-Este es un laboratorio de investigación independiente. No se aceptan contribuciones externas actualmente, pero sí feedback técnico.
+Este es un laboratorio de investigación independiente. 
+No se aceptan contribuciones externas actualmente, pero sí feedback técnico.
 
 ## Nota Ética
-Todo el contenido de este laboratorio se orienta a seguridad defensiva, comprensión académica y fortalecimiento de sistemas. Nada aquí debe usarse con objetivos maliciosos.
+Todo el contenido de este laboratorio se orienta a seguridad defensiva, comprensión académica y fortalecimiento de sistemas. 
+Nada aquí debe usarse con objetivos maliciosos.
 
 ## Cimarrón Labs — Advanced Security Research
 Construyendo conocimiento. Diseñando seguridad. Investigando sin descanso.
