@@ -1,5 +1,5 @@
 # **CIMARRON LABS**
-## **Advanced Security Research**
+## **Cybersecurity Consulting & Research**
 
 ## **Sobre Cimarrón Labs**
 Cimarrón Labs nace como un espacio de investigación independiente dedicado a comprender cómo se comprometen los sistemas, cómo se defienden y cómo se construye seguridad robusta desde los fundamentos.
