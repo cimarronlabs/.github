@@ -114,7 +114,7 @@ Cimarrón Labs representa su visión: un espacio de investigación serio, reprod
 
 **GitHub:** https://github.com/cimarronlabs
 
-**Email:** [cimarron.research@gmail.com](cimarronlabs@proton.me)
+**Email:** [cimarronlabs@proton.me](cimarronlabs@proton.me)
 
 ## Contribución
 Este es un laboratorio de investigación independiente. 
@@ -131,7 +131,7 @@ Construyendo conocimiento. Diseñando seguridad. Investigando sin descanso.
 
 ### Lenguajes y Tooling
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+<!-- ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)-->
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
