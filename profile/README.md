@@ -1,7 +1,7 @@
-# **CIMARRON LABS**
-## **Cybersecurity Consulting & Research**
+# **Consultora Cimarrón**
+## **Cybersecurity & Digital Risk Prevention | Python | Linux | Founder @ Cimarrón**
 
-## **Sobre Cimarrón Labs**
+### **Sobre Cimarrón Labs**
 Cimarrón Labs nace como un espacio de investigación independiente dedicado a comprender cómo se comprometen los sistemas, cómo se defienden y cómo se construye seguridad robusta desde los fundamentos.
 Trabajamos con una filosofía clara: **entender a nivel de raíz, documentar con precisión y compartir conocimiento técnico de valor real.**
 
