@@ -115,7 +115,7 @@ Cimarrón Labs representa su visión: un espacio de investigación serio, reprod
 
 **GitHub:** https://github.com/cimarronlabs
 
-**Email:** [cimarronlabs@proton.me](cimarronlabs@proton.me)
+**Email:** [consultora.cimarron@gmail.com](consultora.cimarron@gmail.com)
 
 ## Contribución
 Este es un laboratorio de investigación independiente. 
