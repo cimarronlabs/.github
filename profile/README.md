@@ -1,11 +1,12 @@
 # **Consultora Cimarrón**
-## **Seguridad Digital y Prevención de Riesgos | Cybersecurity | Python | Linux | Windows | BSD**
+## **Seguridad Digital y Prevención de Riesgos | Python | Linux | Windows | BSD**
+### **Resiliencia Operativa | Continuidad del Negocio**
 
 ### **Sobre Cimarrón Labs**
 Cimarrón Labs nace como un espacio de investigación independiente dedicado a comprender cómo se comprometen los sistemas, cómo se defienden y cómo se construye seguridad robusta desde los fundamentos.
 Trabajamos con una filosofía clara: **entender a nivel de raíz, documentar con precisión y compartir conocimiento técnico de valor real.**
 
-Este repositorio funciona como el núcleo del laboratorio, donde se consolidan procesos, investigaciones y documentación qu son aplicados en Consultora Cimarrón.
+Este repositorio funciona como el núcleo del laboratorio, donde se consolidan procesos, investigaciones y documentación que luego son aplicados en Consultora Cimarrón.
 
 ## Metodología
 
