@@ -1,12 +1,12 @@
-# **Consultora Cimarrón**
-## **Seguridad Digital y Prevención de Riesgos | Python | Linux | Windows | BSD**
+# **Cimarrón Labs**
+## **Seguridad Digital y Prevención de Riesgos**
 ### **Resiliencia Operativa | Continuidad del Negocio**
 
 ### **Sobre Cimarrón Labs**
 Cimarrón Labs nace como un espacio de investigación independiente dedicado a comprender cómo se comprometen los sistemas, cómo se defienden y cómo se construye seguridad robusta desde los fundamentos.
 Trabajamos con una filosofía clara: **entender a nivel de raíz, documentar con precisión y compartir conocimiento técnico de valor real.**
 
-Este repositorio funciona como el núcleo del laboratorio, donde se consolidan procesos, investigaciones y documentación que luego son aplicados en Consultora Cimarrón.
+Este repositorio funciona como el núcleo del laboratorio, donde se consolidan procesos, investigaciones y documentación que luego son aplicados en Cimarrón Ciberseguridad.
 
 ## Metodología
 
@@ -73,12 +73,12 @@ Cada módulo del ecosistema está diseñado para crecer de manera independiente 
 - **Blue Team & Ingeniería defensiva:** hardening, monitoreo, detecciones, SOC modernizado.
 - **DevSecOps:** automatización, pipelines, supply chain security.
 - **Ciberinteligencia & Recon:** OSINT técnico, fingerprinting, ataque basado en contexto.
-- **Criptografía & Entropía:** TRNG, ruido ambiental, análisis estadístico.
+- **Criptografía & Entropía:** TRNG, ruido ambiental, análisis estadístico, Post Quantum Cryptography.
 - **Arquitectura de Seguridad:** Zero Trust, segmentación, diseño resiliente.
 
 ## Estado del Proyecto
 
-Cimarrón Labs está en fase **Día 1**:
+Cimarrón Labs está en fase **Desarrollo continuo**:
 
 - Estructura creada
 - Metodología definida
@@ -115,7 +115,7 @@ Cimarrón Labs representa su visión: un espacio de investigación serio, reprod
 
 **GitHub:** https://github.com/cimarronlabs
 
-**Email:** [consultora.cimarron@gmail.com](consultora.cimarron@gmail.com)
+**Email:** [cimarron.cybersecops@gmail.com](cimarron.cybersecops@gmail.com)
 
 ## Contribución
 Este es un laboratorio de investigación independiente. 
